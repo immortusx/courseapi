@@ -1,0 +1,41 @@
+[
+    {
+        "id": "1",
+        "title": "Web Development",
+        "image": "https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_1280.png",
+        "description": "This course is intended to teach students the fundamentals of web development in a project-based learning environment. Students are taught the basic elements of web development, such as web hosting, file organization, and incorporating Javascript into HTML files.",
+        "course1": "JavaScript",
+        "course2": "Python Django",
+        "course3": "Node.js",
+        "price": 6999
+    },
+    {
+        "id": "2",
+        "title": "App Development",
+        "image": "https://cdn.pixabay.com/photo/2018/05/18/15/30/web-design-3411373_1280.jpg",
+        "description": "This course introduces students to programming technologies, design and development related to mobile applications. Topics include accessing device capabilities, industry standards, operating systems, and programming for mobile applications using an OS Software Development Kit (SDK).",
+        "course1": "React Native",
+        "course2": "Flutter",
+        "price": 8999
+    },
+    {
+        "id": "3",
+        "title": "Ethical Hacking",
+        "image": "https://cdn.pixabay.com/photo/2023/01/10/03/59/programming-7708867_1280.jpg",
+        "description": "The course teaches beginners about computer systems with the permission of the organization. People who have a keen interest in the field of technology can opt for this course. Ethical hacking is a process wherein professionals use the vulnerabilities of a network/ system to detect intrusions from malicious hackers.",
+        "course1": "Networking",
+        "course2": "Penetration",
+        "course3": "Scripting",
+        "price": 7999
+    },
+    {
+        "id": "4",
+        "title": "Graphic Design",
+        "image": "https://cdn.pixabay.com/photo/2017/09/25/18/56/social-media-2786261_1280.jpg",
+        "description": "What is Graphic Design Course? In Graphic Design Course you will learn to convey your ideas and messages using animation, graphics, and images. In order to excel in this field, you need to gain knowledge about marketing skills and electronic media packages.",
+        "course1": "Photoshop",
+        "course2": "Adobe vector",
+        "course3": "adobe illustraion",
+        "price": 3999
+    }
+]
